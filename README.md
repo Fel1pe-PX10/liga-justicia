@@ -11,3 +11,7 @@ Cambio aplicado directamente en GitHub
 
 ## Hola Mundo
 También desde Git
+
+
+## Estos cambios son nuevos
+Cambios desde el git local
