@@ -13,5 +13,5 @@ Cambio aplicado directamente en GitHub
 También desde Git
 
 
-## Estos cambios son nuevos
+## Estos cambios son nuevos con conflicto
 Cambios desde el git local
