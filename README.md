@@ -15,3 +15,5 @@ También desde Git
 
 ## Estos cambios son nuevos con conflicto
 Cambios desde el git local
+## Estos cambios son nuevos
+Cambios desde el git local
